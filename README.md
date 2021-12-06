@@ -1,7 +1,7 @@
 # Heading1
 ## Heading2
 ### Heading3
-#### Heading4https://i.zoomtventertainment.com/story/BTS_2_0.jpg?tr=w-400,h-300,fo-auto
+#### Heading4
 ##### Heading5
 ###### Heading6
 normal heading 
@@ -12,19 +12,29 @@ normal heading
  
 ***Iam both Italic and Bold***
 
-* Food
-  * Pizza
-  * Sandwich
-  * Pani Puri
-  * Cream Stone
-  * Chocolates
-  * Sweets
+~~This is to Strike the Text~~
+
+**This word is _important_**
+1. First List Item
+   - First Nested List Item
+     - Second Nested List Item
+
+Here is a simple footnote[^1].
+[^1]: My reference.
+
+* Food :yum:
+  * Pizza :pizza:
+  * Sandwich :sandwich:
+  * Pani Puri :shallow_pan_of_food:
+  * Cream Stone :ice_cream:
+  * Chocolates :chocolate_bar:
+  * Sweets :fish_cake:
  
  1. Brothers
-    1. Neelima
-    2. Jyothi
-    3. Amulya
-    4. Preethi
+    1. Neelima :thinking:
+    2. Jyothi :smile:
+    3. Amulya :relaxed:
+    4. Preethi :slightly_smiling_face:
 
 [google](https://www.google.com/)
 
